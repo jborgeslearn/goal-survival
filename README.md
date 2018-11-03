@@ -1,2 +1,5 @@
 # goal-survival
-Ficheiros referentes a recolha de dados para dissertação de mestrado (Mestrado em Estatística, Matemática e Computação da Universidade Aberta - Lisboa)
+
+Ficheiros a dissertação de mestrado do Mestrado em Estatística, Matemática e Computação da Universidade Aberta (Lisboa) com o título:
+
+### "Análise de Sobrevivência - Uma Aplicação a Eventos de Golo em Jogos de Futebol"
